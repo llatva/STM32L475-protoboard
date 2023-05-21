@@ -5742,7 +5742,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x16_Odd_Even") (at 228.6 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d54db0cd-5991-44fe-a655-556131d5ddc7)
-    (property "Reference" "J?" (id 0) (at 229.87 38.1 0))
+    (property "Reference" "J10" (id 0) (at 229.87 38.1 0))
     (property "Value" "Conn_02x16_Odd_Even" (id 1) (at 229.87 40.64 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x16_P2.54mm_Vertical" (id 2) (at 228.6 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6406,6 +6406,9 @@
     (path "/89af44e8-7ade-4d3f-b8d8-cdba23e4a584"
       (reference "J9") (unit 1) (value "long_header") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical")
     )
+    (path "/d54db0cd-5991-44fe-a655-556131d5ddc7"
+      (reference "J10") (unit 1) (value "Conn_02x16_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x16_P2.54mm_Vertical")
+    )
     (path "/f1a299a9-c40f-44ec-9f9b-fc746784a3be"
       (reference "J11") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
@@ -6423,9 +6426,6 @@
     )
     (path "/427aa9d6-e998-4da6-91fa-7d5a0801f566"
       (reference "J16") (unit 1) (value "SD_Card") (footprint "Connector_Card:SD_Kyocera_145638109211859+")
-    )
-    (path "/d54db0cd-5991-44fe-a655-556131d5ddc7"
-      (reference "J?") (unit 1) (value "Conn_02x16_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x16_P2.54mm_Vertical")
     )
     (path "/d6074fe0-7d40-45aa-9957-983c78f262bb"
       (reference "JP1") (unit 1) (value "J") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
