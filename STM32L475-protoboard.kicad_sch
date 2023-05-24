@@ -3625,7 +3625,7 @@
     (uuid f5f9bde3-76eb-4cad-ac16-0f045e58e8b2)
   )
 
-  (text "JLC DRC RULES!" (at 240.665 22.86 0)
+  (text "JLC DRC RULES!" (at 241.3 29.21 0)
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid 26990081-764c-4423-9044-ab9fb3832a18)
   )
@@ -3641,7 +3641,7 @@
     (effects (font (size 2 2) (thickness 0.254) bold) (justify left bottom))
     (uuid a9e853e1-c99a-46df-a985-0ea6f6875709)
   )
-  (text "USB ID pin + pull-up datalinjaan \ntsekkaa DFU-homma\n\nA/D:t (väh 3 + LPF..) + kaikki DAC-linjat\n\npiikkiriman levennys"
+  (text "USB ID pin + pull-up datalinjaan \ntsekkaa DFU-homma\n\nA/D:t (väh 3 + LPF..) + kaikki DAC-linjat\n"
     (at 156.21 17.78 0)
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid b0bda899-8910-4325-afde-7059caf45336)
@@ -3658,8 +3658,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e51c67cf-e4c9-42ba-abaf-0a25bc1fb360)
   )
-  (text "TODO: A/D:lle lowpass-optio, oletuksena 0R-vastus\nSD/MICROSD-kortinlukija"
-    (at 25.4 21.59 0)
+  (text "TODO: A/D:lle lowpass-optio, \noletuksena 0R-vastus"
+    (at 72.39 24.13 0)
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid f29b1e5d-0765-4be4-96cb-16f073758e7c)
   )
