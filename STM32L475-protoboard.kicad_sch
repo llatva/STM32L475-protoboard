@@ -3644,7 +3644,7 @@
     (uuid 9be93331-e8e4-4656-b86e-82129b0f7baa)
   )
   (text "-W5500-moduulin oikea paikka!\n-USB ID pin\n-USB VBUS pin\n-tsekkaa DFU-homma"
-    (at 99.06 -5.08 0)
+    (at 218.44 184.15 0)
     (effects (font (size 2.5 2.5) (thickness 0.6) bold) (justify left bottom))
     (uuid b0bda899-8910-4325-afde-7059caf45336)
   )
