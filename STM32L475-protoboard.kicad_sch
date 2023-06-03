@@ -3692,7 +3692,7 @@
     (effects (font (size 2 2) (thickness 0.254) bold) (justify left bottom))
     (uuid aba49ca0-5549-45f7-8983-d33fc698b9d9)
   )
-  (text "-varmista vielä W5500-moduulin paikka!\n-DRC check (JLC:n säännöt)"
+  (text "-varmista vielä W5500-moduulin paikka!\n-USB-liitin"
     (at 104.14 6.35 0)
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid b0bda899-8910-4325-afde-7059caf45336)
