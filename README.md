@@ -9,5 +9,7 @@ Connector pinouts are documented on the bottom side of the board (programming in
 
 Designed by Lasse OH3HZB 2023
 
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
 ![3d](STM32L475-protoboard-3D.jpg)
 
