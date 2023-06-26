@@ -7,6 +7,8 @@ R8 is NOT to be mounted (USB data line pull-up is not used for this MCU type). F
 
 Connector pinouts are documented on the bottom side of the board (programming interface, SPI interface).
 
+See also the daughterboard, in the subdirectory "STM32daughter".
+
 Designed by Lasse OH3HZB 2023
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
