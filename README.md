@@ -22,3 +22,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 ![photo](STM32L475-protoboard-photo.jpg)
 
+### Schematic
+
+Open with KiCAD (v.7+) or use [this PDF](STM32L475-protoboard.pdf).
+
