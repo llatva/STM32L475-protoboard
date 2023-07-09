@@ -16,7 +16,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 ### RevA ERRATA
 
-* Silkscreen: BOTTOM silkscreen, Ethernet connector's pin next to 3V3 should be VDC, not "NC". Actual wiring is correct.
+* Silkscreen: BOTTOM silkscreen, Ethernet connector's pin next to 3V3 is VDC, not "NC". Actual wiring is correct.
 
 ### 3D
 
